@@ -1,5 +1,7 @@
 ML_MISC/
+nlp_proto_venv
 .ipynb_checkpoints/
 *.props
 stanford-corenlp-full-2018-10-05/
 pyheideltime
+.DS_Store
